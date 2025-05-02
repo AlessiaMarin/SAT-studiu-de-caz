@@ -1,0 +1,1 @@
+# SAT-studiu-de-caz
