@@ -41,4 +41,5 @@ Sunt prezente 3 fișiere `.py`:
   - rezultatul pentru fiecare algoritm.
 
 ---
+Fișierele .txt conțin mulțimile de clauze pe care le-am folosit pentru a studia cei trei algoritmi.
 
