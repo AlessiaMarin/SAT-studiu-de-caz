@@ -55,7 +55,7 @@ def resolution(clauses):
 
 
 def unit_propagation(clauses):
-    clauses = [list(c) for c in clauses]  # Make a copy
+    clauses = [list(c) for c in clauses]  
     while True:
         unit_clauses = [c[0] for c in clauses if len(c) == 1]
         if not unit_clauses:
